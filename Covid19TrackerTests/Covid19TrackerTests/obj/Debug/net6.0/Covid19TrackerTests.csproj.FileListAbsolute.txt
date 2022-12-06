@@ -412,3 +412,4 @@ C:\Users\lambertegbe\source\repos\Covid19TrackerTests\Covid19TrackerTests\Covid1
 C:\Users\lambertegbe\source\repos\Covid19TrackerTests\Covid19TrackerTests\Covid19TrackerTests\obj\Debug\net6.0\Covid19TrackerTests.pdb
 C:\Users\lambertegbe\source\repos\Covid19TrackerTests\Covid19TrackerTests\Covid19TrackerTests\obj\Debug\net6.0\Covid19TrackerTests.genruntimeconfig.cache
 C:\Users\lambertegbe\source\repos\Covid19TrackerTests\Covid19TrackerTests\Covid19TrackerTests\obj\Debug\net6.0\ref\Covid19TrackerTests.dll
+C:\Users\lambertegbe\source\repos\Covid19TrackerTests\Covid19TrackerTests\Covid19TrackerTests\bin\Debug\net6.0\appsettings.json

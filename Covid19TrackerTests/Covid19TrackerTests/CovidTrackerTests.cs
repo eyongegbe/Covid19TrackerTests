@@ -25,7 +25,7 @@ namespace EdgeApiTestProject
         {
 
             var configurationBuilder = new ConfigurationBuilder()
-               .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true).Build();
+                .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true).Build();
             string BaseUri = configurationBuilder["BaseUri"];
             string ApiKey = configurationBuilder["ApiKey"];
 
