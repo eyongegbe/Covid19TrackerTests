@@ -13,7 +13,6 @@ namespace Covid19TrackerTests
 
         private IAPIRequestContext Request = null;
 
-
         [SetUp]
         public async Task SetUpApiTests()
         {
@@ -27,8 +26,6 @@ namespace Covid19TrackerTests
                 .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true).Build();
             string BaseUri = configurationBuilder["BaseUri"];
             string ApiKey = configurationBuilder["ApiKey"];
-
-
 
             var headers = new Dictionary<string, string>();
             headers.Add("X-RapidAPI-Key", ApiKey);

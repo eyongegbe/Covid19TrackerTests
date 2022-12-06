@@ -17,12 +17,12 @@
         public int NewCases { get; set; }
         public int TotalDeaths { get; set; }
         public int NewDeaths { get; set; }
-        public string TotalRecovered { get; set; }
+        public string? TotalRecovered { get; set; }
         public int NewRecovered { get; set; }
         public int ActiveCases { get; set; }
 
-        public string TotalTests { get; set; }
-        public string Population { get; set; }
+        public string? TotalTests { get; set; }
+        public string? Population { get; set; }
         public int one_Caseevery_X_ppl { get; set; }
         public int one_Deathevery_X_ppl { get; set; }
         public int one_Testevery_X_ppl { get; set; }
